@@ -4,6 +4,9 @@ The java code provides the help in real time scenario. On selecting the source a
 Each metro station is valued from numbers between 0 to 55.
 On selecting one of the nodes as source it derives the results.
 
+COMPLEXITY: The time complexity of Dijkstras algorithm is O(N), N is the number of vertices in the graph.
+            The space complexity of Dijkstras algorithm is O(N)+O(N).
+
 # Values allocation to Metro stations..
             Node number                                       Station Name
             
