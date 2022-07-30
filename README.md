@@ -1,8 +1,7 @@
 # Hyderabad-Metro-DijkstraAlgo
-The Project uses Dijkstra Algorithm to determine the shortest path from any metro station as source to all possible metro stations..
-The java code provides the help in real time scenario. On selecting the source amongst any of metro stations it derives the shortest path to all the other metro stations possible.
+This Project uses Dijkstra Algorithm to determine the shortest path from any Metro Station as source to all the possible Metro Stations..
+The project is developed completely in java and has usecase in real time scenario. On selecting the source amongst any of metro stations it derives the shortest path to all the other metro stations.
 Each metro station is valued from numbers between 0 to 55.
-On selecting one of the nodes as source it derives the results.
 
 COMPLEXITY: The time complexity of Dijkstras algorithm is O(N), N is the number of vertices in the graph.
             The space complexity of Dijkstras algorithm is O(N)+O(N).
@@ -64,6 +63,6 @@ COMPLEXITY: The time complexity of Dijkstras algorithm is O(N), N is the number 
                 52                                             Madhapur
                 53                                             Dugamcheruvu
                 54                                             Hitechcity
-                55                                             raidurg
+                55                                             Raidurg
                 
                 
